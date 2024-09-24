@@ -1,0 +1,18 @@
+2024-09-24 15:51:08,450 - INFO - БОТ ЗАПУЩЕН
+2024-09-24 15:51:08,556 - INFO - Start polling
+2024-09-24 15:51:08,672 - INFO - Run polling for bot @couurse_valute_bot id=7167834582 - 'course valut'
+2024-09-24 15:51:40,718 - INFO - Update id=534141054 is handled. Duration 500 ms by bot id=7167834582
+2024-09-24 15:51:45,775 - INFO - Update id=534141055 is handled. Duration 202 ms by bot id=7167834582
+2024-09-24 15:51:52,545 - INFO - Update id=534141056 is handled. Duration 233 ms by bot id=7167834582
+2024-09-24 15:51:52,546 - INFO - Начат мониторинг BTC
+2024-09-24 15:51:53,795 - INFO - Изменение цены BTC: Стоимость BTC на Tue Sep 24 15:51:53 2024, 63517.56576956
+2024-09-24 15:51:59,492 - INFO - Update id=534141057 is handled. Duration 218 ms by bot id=7167834582
+2024-09-24 15:52:04,713 - INFO - Изменение цены BTC: Стоимость BTC на Tue Sep 24 15:52:04 2024, 63516.58822282
+2024-09-24 15:52:14,604 - INFO - Update id=534141058 is handled. Duration 141 ms by bot id=7167834582
+2024-09-24 15:52:15,500 - INFO - Изменение цены BTC: Стоимость BTC на Tue Sep 24 15:52:15 2024, 63515.70033979
+2024-09-24 15:52:17,916 - INFO - Update id=534141059 is handled. Duration 155 ms by bot id=7167834582
+2024-09-24 15:52:20,845 - INFO - Update id=534141060 is handled. Duration 202 ms by bot id=7167834582
+2024-09-24 15:52:20,845 - INFO - Начат мониторинг ETH
+2024-09-24 15:52:21,406 - INFO - Изменение цены ETH: Стоимость ETH на Tue Sep 24 15:52:21 2024, 2646.79547594
+2024-09-24 15:52:26,218 - INFO - Изменение цены BTC: Стоимость BTC на Tue Sep 24 15:52:26 2024, 63516.15824996
+2024-09-24 15:52:32,265 - INFO - Изменение цены ETH: Стоимость ETH на Tue Sep 24 15:52:32 2024, 2646.78415694
